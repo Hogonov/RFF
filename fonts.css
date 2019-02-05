@@ -1,0 +1,10 @@
+@font-face {
+font-family: "font2";
+src: url("fonts/MathJax_Fraktur-Regular.otf");// format("Regular");
+}
+
+@font-face {
+font-family: "font1";
+src: url("fonts/ani.ttf");// format("Regular");
+}
+
